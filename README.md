@@ -1,4 +1,5 @@
 # Bard Discord
+This source code is EOL (outdated) because Google update the API and move to Gemini
 
 ### ✏️ Introduction
 
